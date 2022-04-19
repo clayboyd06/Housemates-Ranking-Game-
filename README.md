@@ -11,10 +11,12 @@ This project is a simple, fun game to keep a group of 13 college friends account
 # Installation
 ## Requirments
 Xcode 11+
+
 Access to web
 
 ## How-to
 Clone the XCode project to local machine
+
 Configure the XCode project to Firebase using cocoa-pods or by following instructions on Firebase website
 
 # Work to be done:
